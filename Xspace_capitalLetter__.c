@@ -86,5 +86,6 @@ int main(){
 	
 	TachTen(hoTen);
 	printf("\n\nChuoi sau khi tach ten: %s", hoTen);
+	
 	return 0;
 }
